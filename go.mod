@@ -61,7 +61,7 @@ require (
 	github.com/quic-go/quic-go v0.60.0 // indirect
 	github.com/rm-hull/godx v0.2.4
 	github.com/spf13/cobra v1.10.2
-	github.com/tavsec/gin-healthcheck v1.7.15
+	github.com/tavsec/gin-healthcheck v1.7.16
 	github.com/twitchyliquid64/golang-asm v0.15.1 // indirect
 	github.com/ugorji/go/codec v1.3.1 // indirect
 	go.eigsys.de/gin-cachecontrol/v2 v2.6.0

@@ -4,7 +4,7 @@ go 1.27
 
 require (
 	github.com/Depado/ginprom v1.8.3
-	github.com/gin-contrib/cors v1.7.8
+	github.com/gin-contrib/cors v1.7.9
 	github.com/gin-contrib/pprof v1.5.6
 	github.com/gin-gonic/gin v1.12.0
 	github.com/rm-hull/godx v0.2.5

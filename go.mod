@@ -7,7 +7,7 @@ require (
 	github.com/gin-contrib/cors v1.7.9
 	github.com/gin-contrib/pprof v1.5.6
 	github.com/gin-gonic/gin v1.12.0
-	github.com/rm-hull/godx v0.2.5
+	github.com/rm-hull/godx v0.2.6
 	github.com/spf13/cobra v1.10.2
 	github.com/tavsec/gin-healthcheck v1.7.18
 	go.eigsys.de/gin-cachecontrol/v2 v2.6.0
